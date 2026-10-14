@@ -574,7 +574,7 @@ header .utill li:last-child a {
   flex: 0 0 479px;
   width: 479px;
   height: auto;
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .section01 .inner .exam-wrap .hero-notebook {
