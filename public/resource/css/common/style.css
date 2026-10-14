@@ -4,7 +4,7 @@
   font-display: swap;
   src:
     local("Pretendard Black"),
-    url(public/resource/font/Pretendard-Black.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-Black.woff2) format("woff2");
 }
 
 @font-face {
@@ -13,7 +13,7 @@
   font-display: swap;
   src:
     local("Pretendard ExtraBold"),
-    url(public/resource/font/Pretendard-ExtraBold.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-ExtraBold.woff2) format("woff2");
 }
 
 @font-face {
@@ -22,7 +22,7 @@
   font-display: swap;
   src:
     local("Pretendard Bold"),
-    url(public/resource/font/Pretendard-Bold.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-Bold.woff2) format("woff2");
 }
 
 @font-face {
@@ -31,7 +31,7 @@
   font-display: swap;
   src:
     local("Pretendard SemiBold"),
-    url(public/resource/font/Pretendard-SemiBold.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-SemiBold.woff2) format("woff2");
 }
 
 @font-face {
@@ -40,7 +40,7 @@
   font-display: swap;
   src:
     local("Pretendard Medium"),
-    url(public/resource/font/Pretendard-Medium.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-Medium.woff2) format("woff2");
 }
 
 @font-face {
@@ -49,7 +49,7 @@
   font-display: swap;
   src:
     local("Pretendard Regular"),
-    url(public/resource/font/Pretendard-Regular.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-Regular.woff2) format("woff2");
 }
 
 @font-face {
@@ -58,7 +58,7 @@
   font-display: swap;
   src:
     local("Pretendard Light"),
-    url(public/resource/font/Pretendard-Light.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-Light.woff2) format("woff2");
 }
 
 @font-face {
@@ -67,7 +67,7 @@
   font-display: swap;
   src:
     local("Pretendard ExtraLight"),
-    url(public/resource/font/Pretendard-ExtraLight.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-ExtraLight.woff2) format("woff2");
 }
 
 @font-face {
@@ -76,7 +76,7 @@
   font-display: swap;
   src:
     local("Pretendard Thin"),
-    url(public/resource/font/Pretendard-Thin.woff2) format("woff2");
+    url(/public/resource/font/Pretendard-Thin.woff2) format("woff2");
 }
 
 @font-face {
@@ -85,7 +85,7 @@
   font-display: swap;
   src:
     local("Paperlogy ExtraLight"),
-    url(public/resource/font/Paperlogy-ExtraLight.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-ExtraLight.woff2) format("woff2");
 }
 
 @font-face {
@@ -94,7 +94,7 @@
   font-display: swap;
   src:
     local("Paperlogy Light"),
-    url(public/resource/font/Paperlogy-Light.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-Light.woff2) format("woff2");
 }
 
 @font-face {
@@ -103,7 +103,7 @@
   font-display: swap;
   src:
     local("Paperlogy Regular"),
-    url(public/resource/font/Paperlogy-Regular.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-Regular.woff2) format("woff2");
 }
 
 @font-face {
@@ -112,7 +112,7 @@
   font-display: swap;
   src:
     local("Paperlogy Medium"),
-    url(public/resource/font/Paperlogy-Medium.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-Medium.woff2) format("woff2");
 }
 
 @font-face {
@@ -121,7 +121,7 @@
   font-display: swap;
   src:
     local("Paperlogy SemiBold"),
-    url(public/resource/font/Paperlogy-SemiBold.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-SemiBold.woff2) format("woff2");
 }
 
 @font-face {
@@ -130,7 +130,7 @@
   font-display: swap;
   src:
     local("Paperlogy Bold"),
-    url(public/resource/font/Paperlogy-Bold.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-Bold.woff2) format("woff2");
 }
 
 @font-face {
@@ -139,7 +139,7 @@
   font-display: swap;
   src:
     local("Paperlogy ExtraBold"),
-    url(public/resource/font/Paperlogy-ExtraBold.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-ExtraBold.woff2) format("woff2");
 }
 
 @font-face {
@@ -148,7 +148,7 @@
   font-display: swap;
   src:
     local("Paperlogy Black"),
-    url(public/resource/font/Paperlogy-Black.woff2) format("woff2");
+    url(/public/resource/font/Paperlogy-Black.woff2) format("woff2");
 }
 
 section:not(.section08) {
@@ -429,7 +429,7 @@ header .utill li:last-child a {
   display: block;
   width: 28px;
   height: 20px;
-  background-image: url(public/resource/images/landing/section01-bubbleTail.svg);
+  background-image: url(/public/resource/images/landing/section01-bubbleTail.svg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: top center;
@@ -1262,7 +1262,7 @@ header .utill li:last-child a {
   right: 0;
   width: 100%;
   height: 100%;
-  background-image: url(public/resource/images/landing/section05-bg.png);
+  background-image: url(/public/resource/images/landing/section05-bg.png);
   background-position: top right;
   background-size: 100%;
   background-repeat: no-repeat;
